@@ -1,0 +1,8 @@
+node_modules/
+.taxonomy/
+MCA_AUTHORITY.json
+BUSINESS_RULE_COVERAGE.json
+artifact.html
+BUILD_INFO.json
+RELEASE_REPORT.json
+.smoke-export.xml
